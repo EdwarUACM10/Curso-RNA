@@ -1,0 +1,21 @@
+neuronas,inicializacion,pesado,representacion,preprocesamiento,learning_rate,batch_size,epocas
+666,Normal,TF,"(2, 2)",normalizar_txt_sin_StopWords,0.01,32,500
+666,Xavier,TF-IDF,"(1, 2)",only_normalizar_texto,0.5,32,500
+666,Normal,TF-IDF,"(1, 1)",normalizar_txt_sin_StopWords,0.1,64,500
+666,Xavier,TF,"(1, 1)",normalizar_txt_sin_StopWords,0.1,64,500
+666,Xavier,TF-IDF,"(2, 2)",only_normalizar_texto,0.5,64,500
+666,Xavier,TF-IDF,"(1, 2)",normalizar_txt_sin_StopWords_mas_stemming,0.01,64,500
+666,Xavier,TF,"(2, 2)",only_normalizar_texto,0.01,64,500
+666,Normal,TF-IDF,"(1, 2)",normalizar_txt_sin_StopWords_mas_stemming,0.1,32,500
+666,Xavier,TF-IDF,"(1, 2)",normalizar_txt_sin_StopWords,0.01,16,500
+666,Normal,TF,"(1, 2)",normalizar_txt_sin_StopWords,0.1,16,500
+666,Xavier,TF,"(1, 1)",normalizar_txt_sin_StopWords,0.1,32,500
+666,Normal,TF-IDF,"(2, 2)",normalizar_txt_sin_StopWords,0.01,64,500
+666,Xavier,TF,"(2, 2)",only_normalizar_texto,0.1,64,500
+666,Normal,TF,"(1, 2)",normalizar_txt_sin_StopWords_mas_stemming,0.01,32,500
+666,Normal,TF,"(1, 1)",normalizar_txt_sin_StopWords,0.1,32,500
+666,Normal,TF-IDF,"(2, 2)",only_normalizar_texto,0.1,64,500
+666,Xavier,TF,"(1, 2)",normalizar_txt_sin_StopWords,0.5,64,500
+666,Normal,TF,"(1, 1)",only_normalizar_texto,0.5,16,500
+666,Xavier,TF,"(1, 2)",normalizar_txt_sin_StopWords,0.1,16,500
+666,Normal,TF,"(2, 2)",only_normalizar_texto,0.5,64,500

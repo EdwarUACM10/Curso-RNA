@@ -1,0 +1,2 @@
+Neuronas,Inicialización,Normalización,Learning rate,Batch size,Pesado_termino,Representacion_terminos,ProcesamientosTXT,Epocas_ejecutadas,Error final,Tiempo (s),Accuracy(macro),F1-score(macro),Presicion(macro),Recall(macro)
+128,Xavier,none,0.01,16,TF,"(1, 2)",only_normalizar_texto,100,0.001423715446617089,3975.8678555488586,0.81,0.8071293126900791,0.8079741414404585,0.8064521355888262
